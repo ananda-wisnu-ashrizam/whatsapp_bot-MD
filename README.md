@@ -1,4 +1,3 @@
-# whatsapp_bot-MD
 ## NEOXR-BOT (BETA TEST)
 
 > An implementation of [@neoxr/wb](https://www.npmjs.com/package/@neoxr/wb) which has been optimized to be lightweigth.
@@ -30,9 +29,58 @@ const client = new Baileys({
    version: [2, 2413, 51]
 })
 ```
+
 ### Script Delay 🤣
 
 > Untuk yang melapor masalah terkait script delay, itu memang sengaja dari sistem cooldown (anti spam) untuk meminimalisir banned dari pihak whatssapp dan jika fitur ini membuat tidak nyaman saat menggunakan bot silahkan matikan dengan command : **.antispam off**
+
+### Premium Script v4.1-Optima
+
+🏷️ Price : **Rp. 150.000 / $20.80**
+
+**Special Features & Benefit :**
+- Auto Download
+- Porn Detector (Image Only)
+- 29 Mini Games
+- Leveling & Roles
+- Email Verification
+- Send Email
+- Cloud Storage
+- Menfess w/ Session
+- Store Plugin (Product)
+- Jadibot (Auto Connect)
+- Mistery Box
+- High Optimation
+- Free Updates
+- Bonus ApiKey 100K Request (for 1 year)
+
+> Note : Script Premium sudah terdapat semua additional features, kecuali payment gateway.
+
+**Additional Features :**
+
+> Addional Features adalah fitur tambahan yang di jual terpisah / Additional features are features that are sold separately.
+
+🏷️ Cloud Storage (**+Rp. 35.000 / +$6.80**)
+
+> Cloud Storage ini berfungsi untuk menyimpan file media (sticker, foto, video, audio) ke cloud storage tanpa membebani disk space server karena file langsung di simpan kedalam database. Plugin **storage.js** dan **storage_ev.js**
+
+🏷️ Menfess (**+Rp. 15.000 / +$3.80**)
+
+> Menfess untuk mengirim chat confess kepada seseorang dan penerima pesan bisa membalas chat dari pengirim confess tanpa perlu menggunakan command/perintah
+
+🏷️ Payment Gateway (**+Rp. 80.000 / +$10.80**)
+
+> Payment Gateway ini berfungsi untuk melakukan pembayaran otomatis menggunakan QRIS pada fitur ini terdapat script **payment gateway**, plugin **payment.js**, **sewa.js** dan **buyprem.js** harga dan fee bisa di sesuaikan sesuai keinginan, dalam pembelian mendapat 2 script payment gateway yaitu dari saweria dan paydisini yang mendukung all payment
+
+🏷️ Game Plugins (**+Rp. 70.000 / +$9.80**)
+
+> 29 plugin game yang semuanya tanpa menggunakan api dan tanpa di enskripsi, dengan ini ada tambahan update schema, profile, rank, pocket, dll.
+
+🏷️ Jadi Bot (**+Rp. 50.000 / +$6.50**)
+
+> Fitur jadibot ini sudah dilengkapi dengan auto connect/reconnect apabila bot utama restart bot yang menjadi klien akan terkoneksi kembali secara otomatis (mirip bot hosting).
+
+**Creator / Group** : [Wildan Izzudin](https://wa.me/6285887776722) / [Chatbot](https://chat.whatsapp.com/D4OaImtQwH48CtlR0yt4Ff)
 
 ### Requirements
 
@@ -59,8 +107,8 @@ There are 2 configuration files namely ```.env``` and ```config.json```, adjust 
 
 ```Javascript
 {
-   "owner": "6281215320837",
-   "owner_name": "Nandaa",
+   "owner": "6285887776722",
+   "owner_name": "Wildan Izzudin",
    "database": "data",
    "limit": 15,
    "ram_limit": "900mb",

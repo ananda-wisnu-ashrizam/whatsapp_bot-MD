@@ -1,0 +1,22 @@
+{
+   "owner": "6281215320837",
+   "owner_name": "Nandaa",
+   "database": "data",
+   "limit": 15,
+   "ram_limit": "900mb",
+   "max_upload": 50,
+   "max_upload_free": 10,
+   "cooldown": 1,
+   "timer": 180000,
+   "timeout": 1800000,
+   "permanent_threshold": 3,
+   "notify_threshold": 4,
+   "banned_threshold": 5,
+   "blocks": ["994", "91", "92"],
+   "evaluate_chars":  ["=>", "~>", "<", ">", "$"],
+   "pairing": {
+      "state": true,
+      "number": 6285725012403
+   },
+   "replit_url": "https://replit.com/@anandawisnu283"
+}
